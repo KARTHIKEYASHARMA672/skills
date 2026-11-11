@@ -1,6 +1,6 @@
 ---
 name: architect
-description: [ENFORCED] A systemic approach for planning out large, complex changes or refactors prior to writing any code. YOU MUST AUTO-TRIGGER THIS SKILL if a user request involves more than 2 files or complex system boundaries.
+description: "[ENFORCED] A systemic approach for planning out large, complex changes or refactors prior to writing any code. YOU MUST AUTO-TRIGGER THIS SKILL if a user request involves more than 2 files or complex system boundaries."
 ---
 
 # Architect Workflow

@@ -1,6 +1,6 @@
 ---
 name: simplify
-description: [ENFORCED] A systematic code review and cleanup strategy. YOU MUST AUTO-TRIGGER THIS SKILL every time you finish writing, editing, or optimizing code. Do NOT wait for the user to ask for it.
+description: "[ENFORCED] A systematic code review and cleanup strategy. YOU MUST AUTO-TRIGGER THIS SKILL every time you finish writing, editing, or optimizing code. Do NOT wait for the user to ask for it."
 ---
 # Simplify: Code Review and Cleanup
 

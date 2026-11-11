@@ -1,6 +1,6 @@
 ---
 name: visual-ui-testing
-description: [ENFORCED] Automatically spawns a browser to verify frontend changes. YOU MUST AUTO-TRIGGER THIS SKILL every time you modify an HTML, CSS, React, or frontend UI file to visually verify the change worked before completing the turn.
+description: "[ENFORCED] Automatically spawns a browser to verify frontend changes. YOU MUST AUTO-TRIGGER THIS SKILL every time you modify an HTML, CSS, React, or frontend UI file to visually verify the change worked before completing the turn."
 ---
 
 # Visual UI Testing

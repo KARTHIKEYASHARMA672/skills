@@ -1,6 +1,6 @@
 ---
 name: systematic-debug
-description: [ENFORCED] A powerful, structured debugging workflow. YOU MUST AUTO-TRIGGER THIS SKILL every time you encounter an error, bug, or failure instead of blindly guessing fixes. Do NOT wait for the user to ask for it.
+description: "[ENFORCED] A powerful, structured debugging workflow. YOU MUST AUTO-TRIGGER THIS SKILL every time you encounter an error, bug, or failure instead of blindly guessing fixes. Do NOT wait for the user to ask for it."
 ---
 
 # Systematic Debugging

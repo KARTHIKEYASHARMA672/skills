@@ -1,0 +1,14 @@
+# Build and cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Package lock files for sub-packages
+node_modules/
