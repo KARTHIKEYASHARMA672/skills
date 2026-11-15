@@ -9,7 +9,7 @@
 | Property | Value |
 | :--- | :--- |
 | **Repository** | [`KARTHIKEYASHARMA672/skills`](https://github.com/KARTHIKEYASHARMA672/skills) |
-| **Total Core Skills** | **51 Production Skills** |
+| **Total Core Skills** | **52 Production Skills** |
 | **Tier Classification** | **Tier 1: Active Session Skills** (Primary Agent Capabilities) |
 | **Local Mirror Targets** | `C:\Users\karth\.gemini\config\skills\` & `L:\skills\` |
 | **Author / Maintainer** | [KARTHIKEYASHARMA672](https://github.com/KARTHIKEYASHARMA672) |
@@ -21,7 +21,7 @@
 ## 📑 Table of Contents
 
 - [1. Skills Ecosystem Architecture](#1-skills-ecosystem-architecture)
-- [2. Complete Skills Catalog (51 Skills)](#2-complete-skills-catalog-51-skills)
+- [2. Complete Skills Catalog (52 Skills)](#2-complete-skills-catalog-51-skills)
 - [3. Category Breakdown & Deep-Dives](#3-category-breakdown--deep-dives)
   - [3.1 Architecture, Governance & Orchestration](#31-architecture-governance--orchestration)
   - [3.2 Frontend Design, 3D WebGL & Aesthetics](#32-frontend-design-3d-webgl--aesthetics)
@@ -50,7 +50,7 @@ This repository forms **Tier 1** of the three-tier agent knowledge architecture 
 │ KARTHIKEYASHARMA672/    │   │ KARTHIKEYASHARMA672/    │   │ KARTHIKEYASHARMA672/    │
 │ skills                  │   │ new-skills              │   │ claude-skills           │
 ├─────────────────────────┤   ├─────────────────────────┤   ├─────────────────────────┤
-│ 51 Core Skills          │   │ 521 Specialized Skills  │   │ 90 Multi-Modal Packs    │
+│ 52 Core Skills          │   │ 521 Specialized Skills  │   │ 90 Multi-Modal Packs    │
 │ Active session memory,  │   │ 11 domain categories,   │   │ Plugins, examples, and  │
 │ enforced workflows,     │   │ deep pipelines, offline │   │ office document tools   │
 │ architecture, and tools │   │ research & scaffolding  │   │ (docx, pptx, xlsx, pdf) │
@@ -59,7 +59,7 @@ This repository forms **Tier 1** of the three-tier agent knowledge architecture 
 
 ---
 
-## 2. 📚 Complete Skills Catalog (51 Skills)
+## 2. 📚 Complete Skills Catalog (52 Skills)
 
 | # | Skill Name | Primary Role & Domain | Enforced / Trigger Condition |
 | :--- | :--- | :--- | :--- |
@@ -114,6 +114,7 @@ This repository forms **Tier 1** of the three-tier agent knowledge architecture 
 | **49** | `ui-ux-pro-max-skill` | 7-Skill Enterprise UI/UX Design System | Brand design, banner design, slides, styling, design systems |
 | **50** | `visual_ui_testing` | Autonomous Headless Browser UI Audit | **[ENFORCED]** Playwright/Chromium verification of frontend changes |
 | **51** | `web-search` | Multi-Source Web Search & Extraction | Tavily & Exa CLI search, content extraction, live citation lookup |
+| **52** | `youtube-agent-skill` | YouTube Channel Agent & Production Suite | Video scripts, 21 hook formulas, EDL editing, retention cliffs, packaging |
 
 ---
 
@@ -130,6 +131,7 @@ This repository forms **Tier 1** of the three-tier agent knowledge architecture 
 - **`taste-skill` & `ui-ux-pro-max-skill`**: Comprehensive multi-skill suites providing curated aesthetic guidelines across brutalism, minimalism, branding, and design tokens.
 
 ### 3.3 Video, Media & Creative Engineering
+- **`youtube-agent-skill`**: Eleven specialized YouTube agent workflows (scriptwriting, packaging, editing, retention analysis, Shorts extraction, SEO, chapters, channel audit) powered by 6 zero-dependency Python CLI tools (`hookscore.py`, `title.py`, `deadair.py`, `chapters.py`, `retention.py`, `swipe.py`).
 - **`hyperframes` Suite (`hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `remotion-to-hyperframes`, `reverse-any-video`, `slideshow`, `style-sampling`)**: Complete code-first motion design platform that turns HTML/CSS/JS into 60fps video renders.
 - **`ffmpeg`**: Windows-tested hardware-accelerated (`h264_nvenc`) encoding, loudness normalization (EBU R128), and sidechain audio ducking.
 - **`lemo-opuscar`**: Artistic code-directed short films in distinct fine-art visual styles.
